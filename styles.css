@@ -1,0 +1,21 @@
+body {
+  background-color: #f0f0f0;
+  position: relative;
+}
+.main-container {
+  width: 1300px;
+  height: 784px;
+  background-color: #edf2f8;
+  position: absolute;
+  top: 120px;
+  left: 70px;
+
+  box-shadow: 7px 9px 40px 5px rgba(0, 0, 0, 0.1);
+}
+.flexbox {
+  display: flexbox;
+}
+
+.cssgrid {
+  display: grid;
+}
